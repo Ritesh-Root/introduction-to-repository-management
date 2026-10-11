@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Ritesh-Root
+/src/backend/database.py      @Ritesh-Root
+/src/backend/routers/auth.py  @Ritesh-Root
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Ritesh-Root
